@@ -1,0 +1,14 @@
+# Private report: kept locally, never committed or deployed
+/private/
+
+# Dependencies and build output
+node_modules/
+dist/
+*.local
+.vite/
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json

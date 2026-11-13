@@ -1,0 +1,137 @@
+{
+ "selections": 40,
+ "uniquePlayers": 34,
+ "uniqueBatters": 17,
+ "uniqueBowlers": 17,
+ "inBothTeams": [
+  "Joshua Little",
+  "Kamindu Mendis",
+  "Lockie Ferguson",
+  "Reeza Hendricks",
+  "Towhid Hridoy",
+  "Wanindu Hasaranga"
+ ],
+ "leftHandedBatters": [
+  "Kamindu Mendis",
+  "Quinton de Kock",
+  "Ravindra Jadeja",
+  "Sai Sudharsan",
+  "Tilak Varma"
+ ],
+ "pace": [
+  "Bhuvneshwar Kumar",
+  "Jacob Duffy",
+  "Jasprit Bumrah",
+  "Joshua Little",
+  "Lockie Ferguson",
+  "Marcus Stoinis",
+  "Mark Wood",
+  "Matheesha Pathirana",
+  "Mitchell Starc",
+  "Mohsin Khan",
+  "Mustafizur Rahman",
+  "Nathan Ellis",
+  "Spencer Johnson"
+ ],
+ "spin": [
+  "Axar Patel",
+  "Mujeeb Ur Rahman",
+  "Sunil Narine",
+  "Wanindu Hasaranga"
+ ],
+ "leftArmPace": [
+  "Joshua Little",
+  "Mitchell Starc",
+  "Mohsin Khan",
+  "Mustafizur Rahman",
+  "Spencer Johnson"
+ ],
+ "allRounders": [
+  "Axar Patel",
+  "Cameron Green",
+  "Marcus Stoinis",
+  "Ravindra Jadeja",
+  "Sunil Narine",
+  "Wanindu Hasaranga"
+ ],
+ "noIplInDataset": [
+  "Harry Tector",
+  "Reeza Hendricks",
+  "Towhid Hridoy"
+ ],
+ "finishers": [
+  {
+   "id": 1699,
+   "name": "Suryakumar Yadav",
+   "strikeRate": 217.17,
+   "balls": 361
+  },
+  {
+   "id": 23450,
+   "name": "Sai Sudharsan",
+   "strikeRate": 206.71,
+   "balls": 149
+  },
+  {
+   "id": 3647,
+   "name": "Shreyas Iyer",
+   "strikeRate": 199.01,
+   "balls": 304
+  },
+  {
+   "id": 7897,
+   "name": "Tilak Varma",
+   "strikeRate": 188.52,
+   "balls": 540
+  },
+  {
+   "id": 5939,
+   "name": "Cameron Green",
+   "strikeRate": 172.93,
+   "balls": 181
+  },
+  {
+   "id": 4106,
+   "name": "Daryl Mitchell",
+   "strikeRate": 172.31,
+   "balls": 242
+  },
+  {
+   "id": 7260,
+   "name": "Dhruv Jurel",
+   "strikeRate": 172.08,
+   "balls": 283
+  },
+  {
+   "id": 6423,
+   "name": "Riyan Parag",
+   "strikeRate": 164.44,
+   "balls": 270
+  },
+  {
+   "id": 4812,
+   "name": "Harry Tector",
+   "strikeRate": 160.15,
+   "balls": 133
+  },
+  {
+   "id": 6651,
+   "name": "Towhid Hridoy",
+   "strikeRate": 154.5,
+   "balls": 200
+  },
+  {
+   "id": 152,
+   "name": "Ravindra Jadeja",
+   "strikeRate": 150.94,
+   "balls": 481
+  },
+  {
+   "id": 4904,
+   "name": "Kamindu Mendis",
+   "strikeRate": 144.85,
+   "balls": 136
+  }
+ ],
+ "finisherMinBalls": 100
+}

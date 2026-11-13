@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #14213d;
+  --color-navy-deep: #0d1730;
+  --color-navy-soft: #1d2c4f;
+  --color-pink: #e84b91;
+  --color-pink-strong: #c63a7b; /* pink for fills behind white text (AA contrast) */
+  --color-pink-ink: #b2306a; /* pink for small text on light backgrounds */
+  --color-pink-tint: #fcebf3;
+  --color-gold: #d7b66d;
+  --color-gold-soft: #ead9b0;
+  --color-mist: #f5f6fa;
+  --color-ink: #121a2e;
+  --color-muted: #5a6175;
+  --color-line: #e1e4ec;
+
+  --font-display: "Big Shoulders Display Variable", "Arial Narrow", sans-serif;
+  --font-sans: "Manrope Variable", ui-sans-serif, system-ui, sans-serif;
+
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 4.5rem;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-mist text-ink font-sans antialiased;
+    font-feature-settings: "kern";
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-pink);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+  ::selection {
+    background: var(--color-pink);
+    color: white;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+@utility tnum {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+@utility display {
+  font-family: var(--font-display);
+  font-weight: 800;
+  line-height: 0.9;
+  letter-spacing: -0.005em;
+}

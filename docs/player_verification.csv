@@ -1,0 +1,41 @@
+team,role,selection,player,supplied_id,verified_id,source_name,id_status,id_note,photo_file,photo_status,in_both_teams,balls_faced,legal_balls_bowled,ipl_data,t20i_data,pressure_stats,all_rounder_by_data,batting_hand,bowling_style
+team01,batters,1,Tilak Varma,7897,7897,Namboori Tilak Varma,verified,ID matches; source name is 'Namboori Tilak Varma',7897.jpg,found,False,2418,61,yes,yes,batting bowling,False,LHB,Right-arm offbreak
+team01,batters,2,Dhruv Jurel,7260,7260,Dhruv Jurel,verified,ID and name match source,7260.jpg,found,False,798,0,yes,yes,batting,False,RHB,Not available in source data
+team01,batters,3,Reeza Hendricks,768,768,Reeza Hendricks,verified,ID and name match source,768.jpg,found,True,835,23,no IPL matches in dataset,yes,batting bowling,False,RHB,Right-arm offbreak
+team01,batters,4,Kamindu Mendis,4904,4904,Kamindu Mendis,verified,ID and name match source,4904.jpg,found,True,593,150,yes,yes,batting bowling,False,LHB,Slow left-arm orthodox
+team01,batters,5,Sai Sudharsan,23450,23450,Sai Sudharsan,verified,ID and name match source,23450.jpg,found,False,1686,0,yes,no T20I matches in dataset,batting,False,LHB,Not available in source data
+team01,batters,6,Suryakumar Yadav,1699,1699,Suryakumar Yadav,verified,ID and name match source,1699.jpg,found,False,2759,6,yes,yes,batting bowling,False,RHB,Right-arm offbreak
+team01,batters,7,Riyan Parag,6423,6423,Riyan Parag,verified,ID and name match source,6423.jpg,found,False,1084,260,yes,yes,batting bowling,False,RHB,Right-arm offbreak
+team01,batters,8,Towhid Hridoy,6651,6651,Towhid Hridoy,verified,ID and name match source,6651.jpg,found,True,932,2,no IPL matches in dataset,yes,batting,False,RHB,Right-arm offbreak
+team01,batters,9,Ravindra Jadeja,152,152,Ravindra Jadeja,verified,ID and name match source,152.jpg,found,False,958,1396,yes,yes,batting bowling,True,LHB,Slow left-arm orthodox
+team01,batters,10,Shreyas Iyer,3647,3647,Shreyas Iyer,verified,ID and name match source,3647.jpg,found,False,1865,8,yes,yes,batting,False,RHB,Right-arm offbreak
+team01,bowlers,1,Wanindu Hasaranga,4900,4900,Wanindu Hasaranga,verified,ID and name match source,4900.jpg,found,True,468,2034,yes,yes,batting bowling,True,RHB,Right-arm Leg-Break
+team01,bowlers,2,Bhuvneshwar Kumar,360,360,Bhuvneshwar Kumar,verified,ID and name match source,360.jpg,found,False,169,2221,yes,yes,batting bowling,False,RHB,Right-arm medium
+team01,bowlers,3,Jasprit Bumrah,2933,2933,Jasprit Bumrah,verified,ID and name match source,2933.jpg,found,False,31,1708,yes,yes,batting bowling,False,RHB,Right-arm Fast
+team01,bowlers,4,Sunil Narine,,781,Sunil Narine,resolved,No ID supplied; unique exact-name match in source gives 781,781.jpg,found,False,511,1530,yes,no T20I matches in dataset,batting bowling,True,LHB,Right-arm offbreak
+team01,bowlers,5,Lockie Ferguson,4692,4692,Lockie Ferguson,verified,ID and name match source,4692.jpg,found,True,30,1076,yes,yes,batting bowling,False,RHB,Right-arm Fast
+team01,bowlers,6,Axar Patel,2876,2876,Axar Patel,verified,ID and name match source,2876.jpg,found,False,1279,2670,yes,yes,batting bowling,True,LHB,Slow left-arm orthodox
+team01,bowlers,7,Joshua Little,4807,4807,Joshua Little,verified,ID and name match source,4807.jpg,found,True,19,780,yes,yes, bowling,False,RHB,Left-arm Fast
+team01,bowlers,8,Mitchell Starc,829,829,Mitchell Starc,verified,ID and name match source,829.jpg,found,False,30,803,yes,yes,batting bowling,False,LHB,Left-arm Fast
+team01,bowlers,9,Nathan Ellis,7920,7920,Nathan Ellis,verified,ID and name match source,7920.jpg,found,False,57,916,yes,yes,batting bowling,False,RHB,Right-arm medium
+team01,bowlers,10,Mark Wood,2985,2985,Mark Wood,verified,ID and name match source,2985.jpg,found,False,20,281,yes,yes, bowling,False,RHB,Right-arm fast-medium
+team02,batters,1,Reeza Hendricks,768,768,Reeza Hendricks,verified,ID and name match source,768.jpg,found,True,835,23,no IPL matches in dataset,yes,batting bowling,False,RHB,Right-arm offbreak
+team02,batters,2,Cameron Green,5939,5939,Cameron Green,verified,ID and name match source,5939.jpg,found,False,1072,753,yes,yes,batting bowling,True,RHB,Right-arm medium
+team02,batters,3,Kamindu Mendis,4904,4904,Kamindu Mendis,verified,ID and name match source,4904.jpg,found,True,593,150,yes,yes,batting bowling,False,LHB,Slow left-arm orthodox
+team02,batters,4,Towhid Hridoy,6651,6651,Towhid Hridoy,verified,ID and name match source,6651.jpg,found,True,932,2,no IPL matches in dataset,yes,batting,False,RHB,Right-arm offbreak
+team02,batters,5,Jonny Bairstow,1205,1205,Jonny Bairstow,verified,ID and name match source,1205.jpg,found,False,673,0,yes,yes,batting,False,RHB,Not available in source data
+team02,batters,6,Daryl Mitchell,4106,4106,Daryl Mitchell,verified,ID and name match source,4106.jpg,found,False,1150,80,yes,yes,batting bowling,False,RHB,Right-arm medium
+team02,batters,7,Harry Tector,4812,4812,Harry Tector,verified,ID and name match source,4812.jpg,found,False,828,228,no IPL matches in dataset,yes,batting bowling,False,RHB,Right-arm offbreak
+team02,batters,8,Matthew Short,3727,3727,Matthew Short,verified,ID and name match source,3727.jpg,found,False,420,151,yes,yes,batting bowling,False,RHB,Right-arm offbreak
+team02,batters,9,Tim Seifert,3700,3700,Tim Seifert,verified,ID and name match source,3700.jpg,found,False,760,0,yes,yes,batting,False,RHB,Not available in source data
+team02,batters,10,Quinton de Kock,2161,2101,Quinton de Kock,conflict,Supplied ID 2161 does not exist in any source file; source lists 'Quinton de Kock' only under ID 2101. Statistics use 2101; please confirm.,2101.jpg,found,False,1262,0,yes,yes,batting,False,LHB,Not available in source data
+team02,bowlers,1,Wanindu Hasaranga,4900,4900,Wanindu Hasaranga,verified,ID and name match source,4900.jpg,found,True,468,2034,yes,yes,batting bowling,True,RHB,Right-arm Leg-Break
+team02,bowlers,2,Lockie Ferguson,4692,4692,Lockie Ferguson,verified,ID and name match source,4692.jpg,found,True,30,1076,yes,yes,batting bowling,False,RHB,Right-arm Fast
+team02,bowlers,3,Joshua Little,4807,4807,Joshua Little,verified,ID and name match source,4807.jpg,found,True,19,780,yes,yes, bowling,False,RHB,Left-arm Fast
+team02,bowlers,4,Matheesha Pathirana,8661,8661,Matheesha Pathirana,verified,ID and name match source,8661.jpg,found,False,32,1132,yes,yes,batting bowling,False,RHB,Right-arm Fast
+team02,bowlers,5,Spencer Johnson,6354,6354,Spencer Johnson,verified,ID and name match source,6354.jpg,found,False,13,438,yes,yes,batting bowling,False,LHB,Left-arm Fast
+team02,bowlers,6,Marcus Stoinis,2639,2639,Marcus Stoinis,verified,ID and name match source,2639.jpg,found,False,1247,747,yes,yes,batting bowling,True,RHB,Right-arm medium
+team02,bowlers,7,Jacob Duffy,22920,22920,Jacob Duffy,verified,ID and name match source,22920.jpg,found,False,31,877,yes,yes,batting bowling,False,RHB,Right-arm fast-medium
+team02,bowlers,8,Mohsin Khan,6669,6669,Mohsin Khan,verified,ID and name match source,6669.jpg,found,False,28,654,yes,no T20I matches in dataset, bowling,False,LHB,Left-arm medium-fast
+team02,bowlers,9,Mujeeb Ur Rahman,6450,6450,Mujeeb Ur Rahman,verified,ID and name match source,6450.jpg,found,False,70,820,yes,yes, bowling,False,RHB,Right-arm offbreak
+team02,bowlers,10,Mustafizur Rahman,4373,4373,Mustafizur Rahman,verified,ID and name match source,4373.jpg,found,False,59,1576,yes,yes, bowling,False,LHB,Left-arm medium

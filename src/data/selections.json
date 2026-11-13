@@ -1,0 +1,294 @@
+{
+ "team01": {
+  "batters": [
+   {
+    "selection": 1,
+    "name": "Tilak Varma",
+    "playerId": 7897,
+    "suppliedId": 7897,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 2,
+    "name": "Dhruv Jurel",
+    "playerId": 7260,
+    "suppliedId": 7260,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 3,
+    "name": "Reeza Hendricks",
+    "playerId": 768,
+    "suppliedId": 768,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 4,
+    "name": "Kamindu Mendis",
+    "playerId": 4904,
+    "suppliedId": 4904,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 5,
+    "name": "Sai Sudharsan",
+    "playerId": 23450,
+    "suppliedId": 23450,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 6,
+    "name": "Suryakumar Yadav",
+    "playerId": 1699,
+    "suppliedId": 1699,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 7,
+    "name": "Riyan Parag",
+    "playerId": 6423,
+    "suppliedId": 6423,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 8,
+    "name": "Towhid Hridoy",
+    "playerId": 6651,
+    "suppliedId": 6651,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 9,
+    "name": "Ravindra Jadeja",
+    "playerId": 152,
+    "suppliedId": 152,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 10,
+    "name": "Shreyas Iyer",
+    "playerId": 3647,
+    "suppliedId": 3647,
+    "idStatus": "verified"
+   }
+  ],
+  "bowlers": [
+   {
+    "selection": 1,
+    "name": "Wanindu Hasaranga",
+    "playerId": 4900,
+    "suppliedId": 4900,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 2,
+    "name": "Bhuvneshwar Kumar",
+    "playerId": 360,
+    "suppliedId": 360,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 3,
+    "name": "Jasprit Bumrah",
+    "playerId": 2933,
+    "suppliedId": 2933,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 4,
+    "name": "Sunil Narine",
+    "playerId": 781,
+    "suppliedId": null,
+    "idStatus": "resolved"
+   },
+   {
+    "selection": 5,
+    "name": "Lockie Ferguson",
+    "playerId": 4692,
+    "suppliedId": 4692,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 6,
+    "name": "Axar Patel",
+    "playerId": 2876,
+    "suppliedId": 2876,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 7,
+    "name": "Joshua Little",
+    "playerId": 4807,
+    "suppliedId": 4807,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 8,
+    "name": "Mitchell Starc",
+    "playerId": 829,
+    "suppliedId": 829,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 9,
+    "name": "Nathan Ellis",
+    "playerId": 7920,
+    "suppliedId": 7920,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 10,
+    "name": "Mark Wood",
+    "playerId": 2985,
+    "suppliedId": 2985,
+    "idStatus": "verified"
+   }
+  ]
+ },
+ "team02": {
+  "batters": [
+   {
+    "selection": 1,
+    "name": "Reeza Hendricks",
+    "playerId": 768,
+    "suppliedId": 768,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 2,
+    "name": "Cameron Green",
+    "playerId": 5939,
+    "suppliedId": 5939,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 3,
+    "name": "Kamindu Mendis",
+    "playerId": 4904,
+    "suppliedId": 4904,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 4,
+    "name": "Towhid Hridoy",
+    "playerId": 6651,
+    "suppliedId": 6651,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 5,
+    "name": "Jonny Bairstow",
+    "playerId": 1205,
+    "suppliedId": 1205,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 6,
+    "name": "Daryl Mitchell",
+    "playerId": 4106,
+    "suppliedId": 4106,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 7,
+    "name": "Harry Tector",
+    "playerId": 4812,
+    "suppliedId": 4812,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 8,
+    "name": "Matthew Short",
+    "playerId": 3727,
+    "suppliedId": 3727,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 9,
+    "name": "Tim Seifert",
+    "playerId": 3700,
+    "suppliedId": 3700,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 10,
+    "name": "Quinton de Kock",
+    "playerId": 2101,
+    "suppliedId": 2161,
+    "idStatus": "conflict"
+   }
+  ],
+  "bowlers": [
+   {
+    "selection": 1,
+    "name": "Wanindu Hasaranga",
+    "playerId": 4900,
+    "suppliedId": 4900,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 2,
+    "name": "Lockie Ferguson",
+    "playerId": 4692,
+    "suppliedId": 4692,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 3,
+    "name": "Joshua Little",
+    "playerId": 4807,
+    "suppliedId": 4807,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 4,
+    "name": "Matheesha Pathirana",
+    "playerId": 8661,
+    "suppliedId": 8661,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 5,
+    "name": "Spencer Johnson",
+    "playerId": 6354,
+    "suppliedId": 6354,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 6,
+    "name": "Marcus Stoinis",
+    "playerId": 2639,
+    "suppliedId": 2639,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 7,
+    "name": "Jacob Duffy",
+    "playerId": 22920,
+    "suppliedId": 22920,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 8,
+    "name": "Mohsin Khan",
+    "playerId": 6669,
+    "suppliedId": 6669,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 9,
+    "name": "Mujeeb Ur Rahman",
+    "playerId": 6450,
+    "suppliedId": 6450,
+    "idStatus": "verified"
+   },
+   {
+    "selection": 10,
+    "name": "Mustafizur Rahman",
+    "playerId": 4373,
+    "suppliedId": 4373,
+    "idStatus": "verified"
+   }
+  ]
+ }
+}
